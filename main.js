@@ -32,7 +32,7 @@ for(let li of socialLinks.children)
         userName.textContent = data.name
         userLink.href = data.html_url 
         userLogin.textContent = data.login
-        userImage.img = data.avatar_url
+      
       
 
     })
